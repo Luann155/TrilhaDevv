@@ -1,0 +1,125 @@
+✅ 1. Interface e Usabilidade
+🔧 Correções
+Corrigir expansão do menu lateral no Desktop (corte pela metade).
+Corrigir campo de link da imagem nos Flashcards.
+Corrigir todas as funcionalidades quebradas na seção Gamificação.
+
+🎨 Melhorias Visuais
+Cores e formas dos nós (mapas mentais).
+Conexões inteligentes: curvas, com rótulos e variação de cores/espessura.
+Sombras, bordas, tipografia moderna.
+Modo colaboração e votação, stickies, zoom/minimapa, organização automática, etc.
+
+📊 2. Painel Principal
+Adicionar Barra de Total de Horas Estudadas abaixo da de progresso.
+Filtros: dia/mês/ano.
+Cálculo via seção Histórico (início/fim).
+Gráfico de Horas Estudadas com mesmos filtros (em "Histórico").
+Gráfico de Inatividade com filtros semanal/mensal.
+
+🎮 3. Gamificação
+🧠 Pontuação Geral
+Marcar dia estudado: +1 ponto
+Checklist por fase: +1 ponto
+Concluir fase: +5 pontos
+A cada 10 pontos: +20 XP
+
+📆 Streak Semanal
+7 dias: +7 pontos | 5 dias: +5 pontos
+A cada 10 pontos: +20 XP
+
+⏱ Estudo por Tempo
+1h: +2 pontos | 3h: +4 pontos | 5h+: +6 pontos
+
+🃏 Flashcards
+Cada acerto = +1 ponto
+
+🗓 4. Trilha de Estudos
+🔄 Confirmação de Exclusão
+Ao desmarcar um dia: “Tem certeza que deseja desmarcar este dia?”
+
+⏳ XP e Progresso
+Cada dia marcado = +2 pontos no nível atual.
+Cada 100 XP = +1 ponto total.
+XP necessário cresce por +100 a cada nível.
+Marcar 7 dias = avança para próxima semana.
+Filtro por semana/mês para ver progresso.
+
+🧠 5. Mapas Mentais
+Movimentar nós livremente.
+Conectar nós entre si (estilo FigJam).
+Inserir imagens (link ou upload).
+Recursos extras: auto-organização, zoom, emojis, templates, timer, etc.
+
+🖼 6. Flashcards
+📸 Imagens
+Corrigir bug no campo de link.
+Adicionar upload direto (celular/desktop).
+
+♻️ Revisão
+Revisar apenas cards errados.
+Botão para resetar progresso.
+
+🏅 7. Sistema de Medalhas
+🔓 Por Evolução
+Medalha	Requisitos	Estilo Visual
+🔰 Iniciante	100 XP ou 1ª tarefa/baralho	Prata/Cinza
+🟦 Mediano	500 XP ou streak de 3 dias	Azul com brilho
+🔥 Pro	1000 XP ou 10 checklists/baralhos	Dourado com fogo
+🏆 Veterano	3000 XP, streak 15d, 500 flashcards	Ouro + Roxo
+👑 Super Veterano	7000 XP, streak 30d, 1000 flashcards	Holográfica + coroa
+🐉 Mestre Supremo	15.000 XP, streak 60d, 2500 flashcards	Ouro + pedras verdes
+🚀 Imortal	30.000 XP, streak 100d, 5000 flashcards	Galáctico, neon
+
+✔️ Validação Automática
+Garantir que o sistema de medalhas esteja funcional e rastreando progresso corretamente.
+
+🏆 8. Medalhas Especiais
+1. Progresso
+🚶 Primeiro Passo: 1º checklist ou flashcard
+🧗 Subindo a Montanha: 1000 XP
+🎓 Formando: 100% de uma trilha
+
+2. Constância
+🔥 Foco Total: 7 dias seguidos
+🐺 Lobo Solitário: 14 dias sozinho
+🌙 Noitívago: 7 noites pós 22h
+🌞 Madrugador: 5 dias antes das 7h
+
+3. Desempenho
+⚡ Turbo Memória: 20 flashcards certos seguidos
+📚 Maratona: 8h+ num dia
+💎 Revisão Suprema: Revisar todos cards de um baralho
+
+4. Secretas/Ocultas
+🎭 Curioso: tentou acessar função futura
+🤯 Mente Explodida: 12h num dia
+🧻 Intervalo Longo: voltou após 15 dias sem estudar
+
+5. Sociais
+📤 Compartilhou mapa mental
+🗣 Motivador: 5 mensagens motivacionais
+
+💩 9. Medalhas Negativas (Cômicas e Criativas)
+Nome	Requisito	Estilo / Local (Emoji)
+😴 Mestre da Soneca	Fechou o app em 10s, 3x no dia	Travesseiro + livro (😴)
+🧊 Coração Gelado	Ignorou 10 notificações	Coração congelado (🧊)
+🐢 Lerdeza Máxima	Estudou só 1 minuto	Tartaruga escorregando (🐢)
+🙈 Finge Que Estuda	Ficou 5min sem interagir	Emoji tapando os olhos (🙈)
+🤡 Palhaço do Estudo	Foi direto pro TikTok/Instagram	Nariz de palhaço (🤡)
+🐌 Turbo Lento	1h para marcar 1 flashcard	Caracol parado (🐌)
+🧽 Memória de Esponja	Errou 3 cards por 3 dias seguidos	Esponja pingando (🧽)
+🧟 Voltei dos Mortos	60 dias sem estudar e voltou	Zumbi com lápis (🧟)
+💩 Burrinho Supremo	7 dias sem estudo	Burrinho com coroa de papel (💩)
+🪦 Estudo Enterrado	90 dias sem logar	Túmulo com livro (🪦)
+🐤 Cagão do Conhecimento	Cancelou 3 estudos no mesmo dia	Passarinho fugindo (🐤)
+🍩 Furador Profissional	Falhou 3 dias seguidos programados	Donut mordido (🍩)
+🐖 Porquinho Enferrujado	100+ flashcards sem revisar	Porquinho com teias (🐖)
+👻 Fantasma do Saber	Acessou só 1x no mês	Fantasminha com jornal (👻)
+💀 Estudo Morto	30 dias sem nenhuma atividade	Esqueleto em livros (💀)
+
+📦 Exibição
+Apenas visível ao próprio usuário (modo privado).
+Mostrar em Baú de Medalhas Negativas na aba Gamificação.
+Frase engraçada de incentivo embaixo.
+Algumas somem se o usuário voltar a estudar por 3 dias seguidos.
